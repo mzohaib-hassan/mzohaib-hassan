@@ -6,6 +6,13 @@ Physics graduate passionate about exploring diverse areas of the field, from the
 
 ---
 
+## Achievements
+
+- Recipient of the Science Talent Farming Scheme (STFS) Scholarship, awarded by the Ministry of Science and Technology, Government of Pakistan.
+- Honored with a Laptop Award by the Chief Minister of Punjab for outstanding academic performance in Matriculation.
+
+---
+
 ## Key Projects
 
 A collection of physics projects showcasing simulations, data analysis, and scientific modeling:
@@ -86,15 +93,43 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 
 ## Skills & Expertise
 
-- Applied and computational physics, including astroparticle, cosmology, nanostructure, and quantum modeling  
-- Experimental experience in optics, electronics, and modern physics  
-- Regression modeling, statistical analysis, and data visualization  
-- Scientific plotting using Matplotlib, Pandas, and NumPy  
-- Python programming for simulations, modeling, and analysis  
-- Use of Jupyter Notebooks for interactive scientific workflows  
-- Experience with ROOT framework for high-energy physics data analysis  
-- Version control and collaborative work using Git and GitHub  
-- Predictive modeling, simulation automation, and reproducible research practices 
+### Physics & Scientific Expertise
+
+**Applied Physics:** Astroparticle Physics, Particle Physics, Cosmology, Optics, Electromagnetics, Nanotechnology, Materials Science, Quantum Modeling
+
+**Mathematics & Modeling:** Applied Mathematics, Calculus, Linear Algebra, Differential Equations, Mathematical Modeling, Statistical Methods, Numerical Problem-Solving
+
+**Experimental & Laboratory Physics:** Experimental Physics, Laboratory Techniques, Scientific Instrumentation, Laboratory Equipment, Experimentation, Analytical Testing, Laboratory Research
+
+**Electronics & Electrical Systems:** Electronics, Electronic Systems, Electronic Components, High Voltage, Electrical Engineering, Electrical Power Systems
+
+**Energy & Sustainable Technologies:** Solar Energy, Energy & Utilities, Sustainable Technologies, Environmental Sustainability
+
+### Scientific Computing & Data Science
+
+**Programming & Scientific Tools:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks, ROOT Framework
+
+**Data Analysis & Visualization:** Data Analysis, Statistical Analysis, Data Wrangling, Data Preprocessing, Data Transformation, Data Cleansing, Data Manipulation, Scientific Visualization, Model Evaluation
+
+**Scientific Computing & Research:** Computational Thinking, Scientific Methods, Predictive Modeling, Simulation Automation, Reproducible Research, Research Methodology
+
+### Databases & SQL
+
+**Database Technologies:** SQL, Relational Databases, Database Management, Database Theory, Query Languages, Stored Procedures, Transaction Processing, Database Analysis
+
+### Artificial Intelligence & Machine Learning
+
+**Machine Learning:** Supervised Learning, Unsupervised Learning, Reinforcement Learning, Deep Learning, Artificial Neural Networks, Machine Learning Algorithms, Applied Machine Learning, Model Training, Predictive Modeling
+
+**Artificial Intelligence & Generative AI:** Artificial Intelligence, AI Literacy, Generative AI, Prompt Engineering, Natural Language Processing, LLM Applications, Retrieval-Augmented Generation (RAG), Generative AI Agents, Agentic Systems
+
+**Applied & Responsible AI:** AI Integrations, AI Product Strategy, Responsible AI, Data Ethics
+
+### Software & Collaboration
+
+**Version Control & Collaboration:** Git, GitHub, Version Control, Collaborative Development, Reproducible Workflows
+
+**Productivity & Office Applications:** Microsoft Word, Microsoft PowerPoint, Microsoft Excel, Microsoft Office, Document Preparation, Presentation Design, Spreadsheet Management
 
 ---
 
@@ -109,8 +144,9 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Fundamentals of Particle Accelerator Technology (NPAP MOOC) | Lund University | [🔗 View](https://coursera.org/verify/JYU4X87QZG85) |
 | Nanotechnology: A Maker's Course | Duke University | [🔗 View](https://www.coursera.org/verify/NKBX10F7JOOC) |
 | Solar Energy Basics | The State University of New York | [🔗 View](https://www.coursera.org/verify/5FKWG688GZZA) |
-| Physics of Waves and Optics Specialization<br>• Physics of Oscillators and Waves<br>• Physics of Light and Materials<br>• Physics of Geometrical and Physical Optics | Rice University | [🔗 Spec](https://www.coursera.org/verify/specialization/W4ASQ3ZPNEH0)<br>[🔗 View](https://coursera.org/verify/TBT9KSICKC0S)<br>[🔗 View](https://coursera.org/verify/UTQOEVS2A493)<br>[🔗 View](https://coursera.org/verify/N8D5X26G2UGR) |
-| Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
+| Physics of Waves and Optics Specialization | Rice University | [🔗 View](https://coursera.org/verify/specialization/W4ASQ3ZPNEH0) |
 | Introduction to Artificial Intelligence (AI) | IBM | [🔗 View](https://www.coursera.org/verify/LGCL06H4F0Q3) |
 | AI for Everyone | DeepLearning.AI | [🔗 View](https://www.coursera.org/verify/VNLRQKOXJ0LC) |
-| Machine Learning Specialization<br>• Supervised Machine Learning: Regression and Classification<br>• Advanced Learning Algorithms<br>• Unsupervised Learning, Recommenders, Reinforcement Learning | Stanford University & DeepLearning.AI | [🔗 Spec](https://www.coursera.org/verify/specialization/6W0AGVTT4NUX)<br>[🔗 View](https://coursera.org/verify/4P6UWD4A7J4W)<br>[🔗 View](https://coursera.org/verify/L2HXIBZZYJ4J)<br>[🔗 View](https://coursera.org/verify/8YQSPYHD9GK8) |
+| Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
+| Databases and SQL for Data Science with Python | IBM | [🔗 View](https://www.coursera.org/verify/EL5GDZHH9LQH) |
+| Machine Learning Specialization | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/specialization/6W0AGVTT4NUX) |
