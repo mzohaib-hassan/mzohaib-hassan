@@ -150,4 +150,4 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
 | Databases and SQL for Data Science with Python | IBM | [🔗 View](https://coursera.org/verify/EL5GDZHH9LQH) |
 | Machine Learning Specialization | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/specialization/6W0AGVTT4NUX) |
-| Deep Learning Specialization<br>▸ Neural Networks and Deep Learning<br>▸ Improving Deep Neural Networks: Hyperparameter Tuning,<br>&nbsp;&nbsp;&nbsp;Regularization and Optimization | DeepLearning.AI | [🔗 View](https://www.coursera.org/verify/9SDBQWU1HDEX)<br>[🔗 View](https://www.coursera.org/verify/H4SXF0OAVGSX) |
+| Deep Learning Specialization<br>▸ Neural Networks and Deep Learning<br>▸ Improving Deep Neural Networks: Hyperparameter Tuning,<br>&nbsp;&nbsp;&nbsp;&nbsp;Regularization and Optimization | DeepLearning.AI | [🔗 View](https://www.coursera.org/verify/9SDBQWU1HDEX)<br>[🔗 View](https://www.coursera.org/verify/H4SXF0OAVGSX) |
