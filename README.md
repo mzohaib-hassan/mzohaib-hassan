@@ -137,7 +137,7 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 
 | Course / Specialization | Institution | Certificate |
 |--------------------------|-------------|-------------|
-| Astronomy: Exploring Time and Space | University of Arizona | [🔗 View](https://coursera.org/verify/WXMDVPLYGVQ8) |
+| Astronomy: Exploring Time & Space | University of Arizona | [🔗 View](https://coursera.org/verify/WXMDVPLYGVQ8) |
 | Analyzing the Universe | Rutgers, The State University of New Jersey | [🔗 View](https://www.coursera.org/verify/VBSMSV5LF72B) |
 | AstroTech: The Science and Technology Behind Astronomical Discovery | University of Edinburgh | [🔗 View](https://coursera.org/verify/X72Q5N5BGOID) |
 | Particle Physics: an Introduction | University of Geneva | [🔗 View](https://coursera.org/verify/WMJDVXA6ELT4) |
@@ -145,9 +145,9 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Nanotechnology: A Maker's Course | Duke University | [🔗 View](https://www.coursera.org/verify/NKBX10F7JOOC) |
 | Solar Energy Basics | The State University of New York | [🔗 View](https://www.coursera.org/verify/5FKWG688GZZA) |
 | Physics of Waves and Optics Specialization | Rice University | [🔗 View](https://coursera.org/verify/specialization/W4ASQ3ZPNEH0) |
-| Introduction to Artificial Intelligence (AI) | IBM | [🔗 View](https://www.coursera.org/verify/LGCL06H4F0Q3) |
-| AI for Everyone | DeepLearning.AI | [🔗 View](https://www.coursera.org/verify/VNLRQKOXJ0LC) |
+| Introduction to Artificial Intelligence (AI) | IBM | [🔗 View](https://coursera.org/verify/LGCL06H4F0Q3) |
+| AI for Everyone | DeepLearning.AI | [🔗 View](https://coursera.org/verify/VNLRQKOXJ0LC) |
 | Data Analysis with Python | IBM | [🔗 View](https://coursera.org/verify/2SAYU4G1SHWW) |
-| Databases and SQL for Data Science with Python | IBM | [🔗 View](https://www.coursera.org/verify/EL5GDZHH9LQH) |
+| Databases and SQL for Data Science with Python | IBM | [🔗 View](https://coursera.org/verify/EL5GDZHH9LQH) |
 | Machine Learning Specialization | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/specialization/6W0AGVTT4NUX) |
-| Deep Learning Specialization<br>▸ Neural Networks and Deep Learning | DeepLearning.AI | <br>[🔗 View](https://www.coursera.org/verify/9SDBQWU1HDEX) |
+| Deep Learning Specialization<br>▸ Neural Networks and Deep Learning<br>▸ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization<br>&nbsp;&nbsp;&nbsp;&nbsp;and Optimization | DeepLearning.AI | <br>[🔗 View](https://www.coursera.org/verify/9SDBQWU1HDEX)<br>[🔗 View](https://www.coursera.org/verify/H4SXF0OAVGSX) |DeepLearning.AI | <br>[🔗 View](https://www.coursera.org/verify/9SDBQWU1HDEX)<br>[🔗 View](https://www.coursera.org/verify/H4SXF0OAVGSX) |
