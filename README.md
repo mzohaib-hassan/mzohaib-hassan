@@ -151,4 +151,4 @@ A collection of physics projects showcasing simulations, data analysis, and scie
 | Databases and SQL for Data Science with Python | IBM | [🔗 View](https://coursera.org/verify/EL5GDZHH9LQH) |
 | Machine Learning Specialization | Stanford University & DeepLearning.AI | [🔗 View](https://coursera.org/verify/specialization/6W0AGVTT4NUX) |
 | Deep Learning Specialization | DeepLearning.AI | [🔗 View](https://www.coursera.org/verify/specialization/2TNAYF8U13AO) |
-| DeepLearning.AI TensorFlow Developer Professional Certificate<br>→ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | DeepLearning.AI | [🔗 View](https://www.coursera.org/verify/AXJOM8H06655) |
+| DeepLearning.AI TensorFlow Developer Professional Certificate<br>→ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning<br>→ Convolutional Neural Networks in TensorFlow | DeepLearning.AI | [🔗 View](https://www.coursera.org/verify/AXJOM8H06655)<br><br><br>[🔗 View](https://www.coursera.org/verify/MK87QFW9KP5T) |
